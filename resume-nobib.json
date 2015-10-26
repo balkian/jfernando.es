@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "J. Fernando Sánchez",
+    "label": "Researcher",
+    "picture": "http://balkian.es/theme/img/me.jpg",
+    "email": "jfsanchezrada@gmail.com",
+    "phone": "",
+    "website": "http://jfernando.es",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "balkian",
+        "url": "http://twitter.com/balkian"
+      },
+      {
+        "network": "linkedin",
+        "username": "balkian",
+        "url": "linkedin.com/in/jfsanchezrada"
+      },
+      {
+        "network": "Github",
+        "username": "balkian",
+        "url": "http://github.com/balkian"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GSI UPM",
+      "position": "Researcher - PhD Student",
+      "website": "http://www.gsi.dit.upm.es",
+      "startDate": "2013-01-01",
+      "endDate": "",
+      "summary": "The Ingelligent Systems Group is a research group at Universidad Politécnica de Madrid (UPM)",
+      "highlights": [
+        "Semantic Technologies",
+        "Sentiment Analysis",
+        "Ontologies and vocabularies: Marl, Onyx"
+      ]
+    },
+    {
+      "company": "GSI UPM",
+      "position": "Undergraduate researcher",
+      "website": "http://www.gsi.dit.upm.es",
+      "startDate": "2008-06",
+      "endDate": "2012-12",
+      "summary": "",
+      "highlights": [
+        "Web services: Node.js, Python, PHP, JSP/J2EE...",
+        "Semantic technologies: rdflib, easy-rdf, Protegé",
+        "Event middleware and messaging: XMPP, developed Maia"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "EESTEC",
+      "position": "Vice-Chairman for External Affairs",
+      "website": "http://eestec.net/",
+      "startDate": "2011-04",
+      "endDate": "2012-05",
+      "summary": "",
+      "highlights": [
+        "Established connections with other Student Associations",
+        "Helped found new Observers (Local Groups)",
+        "Carried out International Board duties"
+      ]
+    },
+    {
+      "organization": "EESTEC",
+      "position": "IT Coordinator",
+      "website": "http://eestec.net",
+      "startDate": "2012-04",
+      "endDate": "2013-05",
+      "summary": "",
+      "highlights": [
+        "Coordinated the work of a small international IT Team",
+        "In charge of the administration of the IT infrastructure of EESTEC: Plone portal, Mailman mailing lists, etc."
+      ]
+    },
+    {
+      "organization": "EESTEC",
+      "position": "Oversight Committee",
+      "website": "http://eestec.net",
+      "startDate": "2012-05",
+      "endDate": "2013-05",
+      "summary": "",
+      "highlights": [
+        "     Supervised the work of the International Board"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Tecnical University of Madrid (UPM)",
+      "area": "Telecommunications Engineering",
+      "studyType": "Bachelor+Master",
+      "startDate": "2007-10",
+      "endDate": "2012-10",
+      "gpa": "",
+      "courses": [
+        "Computer Networks",
+        "Software Engineering",
+        "Web Technologies"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "An Event-based Modular Architecture for Intelligent Agents",
+      "publisher": "Proceedings of 2014 IEEE/WIC/ACM International Conference on Intelligent Agent Technology",
+      "releaseDate": "2014",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional competency"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
