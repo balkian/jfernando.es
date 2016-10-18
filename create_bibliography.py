@@ -23,7 +23,7 @@ with open("resume-nobib.json") as r:
             pub["summary"] = author(entry["abstract"])
         pub["name"] = entry["title"].replace("{","").replace("}","")
         pubs.append(pub)
-    resume["publications"] = pubs
+        resume["publications"] = sorted(pubs, key=lambda x: x["releaseDate"], reverse=True)
 
     with open("resume.json", "w") as out:
         json.dump(resume, out, indent=2)
