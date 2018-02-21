@@ -38,7 +38,7 @@
       "position": "Researcher - PhD Student",
       "website": "http://www.gsi.dit.upm.es",
       "startDate": "2013-01-01",
-      "endDate": "",
+      "endDate": null,
       "summary": "The Ingelligent Systems Group is a research group at Universidad Politécnica de Madrid (UPM)",
       "highlights": [
         "Semantic Technologies",
@@ -115,23 +115,72 @@
   ],
   "awards": [],
   "publications": [
-    {
-      "name": "An Event-based Modular Architecture for Intelligent Agents",
-      "publisher": "Proceedings of 2014 IEEE/WIC/ACM International Conference on Intelligent Agent Technology",
-      "releaseDate": "2014",
-      "website": "",
-      "summary": ""
-    }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+          "scikit-learn",
+          "nltk",
+          "spark",
+          "pandas",
+          "jupyter",
+          "SQL"
+      ],
+      "level": "master",
+      "name": "Data analysis, machine learning and NLP"
+    },
+    {
+      "keywords": [
+          "flask",
+          "django",
+          "web",
+          "CLI"
+      ],
+      "level": "master",
+      "name": "Python development"
+    },
+    {
+      "keywords": [
+        "docker",
+        "kubernetes",
+        "ansible"
+      ],
+      "level": "master",
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+          "HTML5",
+          "webcomponents",
+          "CSS",
+          "javascript"
+      ],
+      "level": "advanced",
+      "name": "Front-end development"
+    },
+    {
+      "keywords": [
+        "CLI",
+        "web"
+      ],
+      "level": "beginner",
+      "name": "Go development"
+    },
+    {
+      "keywords": [
+          "J2EE",
+          "Android"
+      ],
+      "level": "intermediate",
+      "name": "Java development"
+    },
+    {
+      "keywords": [
+          "web",
+          "websockets"
+      ],
+      "level": "intermediate",
+      "name": "NodeJS development"
     }
   ],
   "languages": [
