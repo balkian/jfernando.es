@@ -137,7 +137,7 @@
           "CLI"
       ],
       "level": "master",
-      "name": "Python development"
+      "name": "Python"
     },
     {
       "keywords": [
@@ -156,7 +156,7 @@
           "javascript"
       ],
       "level": "advanced",
-      "name": "Front-end development"
+      "name": "Front-end"
     },
     {
       "keywords": [
@@ -164,7 +164,7 @@
         "web"
       ],
       "level": "beginner",
-      "name": "Go development"
+      "name": "Go"
     },
     {
       "keywords": [
@@ -172,7 +172,7 @@
           "Android"
       ],
       "level": "intermediate",
-      "name": "Java development"
+      "name": "Java"
     },
     {
       "keywords": [
@@ -180,7 +180,7 @@
           "websockets"
       ],
       "level": "intermediate",
-      "name": "NodeJS development"
+      "name": "NodeJS"
     }
   ],
   "languages": [
