@@ -1,0 +1,44 @@
+@base <http://jfernando.es/foaf.ttl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+<> a foaf:Document
+	; foaf:name "Perfil FOAF de Fernando Sánchez"@es
+	; foaf:primaryTopic <Me> .
+
+
+<Me> a foaf:Person 
+   ; foaf:title "Mr" 
+   ; foaf:givenName "Fernando" 
+   ; foaf:familyName "Sánchez" 
+   ; foaf:name "Mr Fernando Sánchez" 
+   ; foaf:nick "J" 
+   ; foaf:mbox_sha1sum "85b065f1658f158698e09ab3be33f2b961ee5782" 
+   ; foaf:homepage <http://jfernando.es> 
+   ; foaf:img <http://jfernando.es/me.jpg>
+   ; foaf:birthday "06-22";
+	 ; foaf:gender "masculino"@es
+   ; foaf:workplaceHomepage <https://www.gsi.upm.es> 
+   ; foaf:schoolHomepage <https://www.etsit.upm.es> 
+   ; foaf:based_near "Madrid" 
+. 
+
+<http://jfernando.es/foaf.ttl#Me> foaf:knows <cif> ,
+ <oaraque>, <acarrera> .
+
+<cif> a foaf:Person 
+   ; foaf:name "Carlos Á. Iglesias" 
+   ; foaf:mbox_sha1sum "0cf5370ebbf5b0b8547e0366aa6f99a9142568a1" 
+. 
+
+<acarrera> a foaf:Person 
+   ; foaf:name "Álvaro Carrera" 
+   ; foaf:mbox_sha1sum "fb565edaec43e192717e6a86a53433c6b1705b09" 
+. 
+
+<oaraque> a foaf:Person 
+   ; foaf:name "Óscar Araque" 
+   ; foaf:mbox_sha1sum "d8d576af47b21cd1c994b61bc2d4299eecfa49e4" 
+. 
